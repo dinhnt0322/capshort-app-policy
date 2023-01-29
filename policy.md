@@ -7,7 +7,7 @@ This privacy policy explains how Capshort collects, uses, and protects your pers
 Information Collection and Use:
 
 
-Information provided by you: We collect information you voluntarily provide when you use our app, such as your name, email address, and ID.
+Information provided by you: We collect information you voluntarily provide when you use our app, such as your name, email address, and User IDs.
 
 
 Information collected automatically: When you use our app, we may collect certain information automatically, such as your device type, operating system version, and app usage data.
